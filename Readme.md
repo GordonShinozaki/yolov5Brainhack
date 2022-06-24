@@ -14,3 +14,7 @@ python train.py --img 640 --batch 16 --epochs 5 --data ./data/dataset.yaml --wei
 ## Inference
 Refer to our test_inference script
 
+## Download our weight
+https://drive.google.com/file/d/1K_o3MmcvbketUv-8jys6YQZwz1pR-rSR/view?usp=sharing
+
+Add the weight to the directory yolov5/runs/train/exp40/weights/
