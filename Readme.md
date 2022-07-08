@@ -18,3 +18,9 @@ Refer to our test_inference script
 https://drive.google.com/file/d/1K_o3MmcvbketUv-8jys6YQZwz1pR-rSR/view?usp=sharing
 
 Add the weight to the directory yolov5/runs/train/exp40/weights/
+
+---
+### Collaborators:
+@anEEStudent
+@GordonShinozaki
+@dominic-soh
